@@ -4,7 +4,7 @@
 
 # 1.包目录结构
 
-<img src="./iamges/1.png"/>
+<img src="./imgs/1.png"/>
 
 # 2.测试框架使用步骤
 
